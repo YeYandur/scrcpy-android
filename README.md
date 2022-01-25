@@ -5,7 +5,7 @@
 - This application mirrors display and touch controls from a target android device to scrcpy-android device.
 
 - scrcpy-android uses ADB-Connect interface to connect to android device to be mirrored.
-
+- https://gitlab.com/las2mile/scrcpy-android
 
 ## Download
 
